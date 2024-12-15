@@ -1,0 +1,13 @@
+{
+  "name": "five",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first-half.js",
+  "scripts": {
+    "start-one": "node first-half.js",
+    "start-two": "node second-half.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
